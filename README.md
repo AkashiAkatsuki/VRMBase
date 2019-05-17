@@ -10,6 +10,7 @@
  - Unityで開いたらたぶんめっちゃエラーが出るので、[MUNクライアントアセット](http://www.monobitengine.com/mun/)をまるごとインポート
    - UnityChanアセットも必要だけど一緒にインポートしてくれる
  - MonobitやVRMの学習の参考になれば幸いです
+ - これがベストプラクティスかどうかは知らないです（無責任）
 
 ## Demo
  - ダウンロードは[Release](https://github.com/AkashiAkatsuki/VRMBase/releases)から
